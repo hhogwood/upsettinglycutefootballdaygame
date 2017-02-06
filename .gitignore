@@ -28,3 +28,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Pige added this to avoid minor version conflicts
+ProjectVersion.txt
